@@ -1,0 +1,10 @@
+ethereum/build/
+contractDeploymentInfo.*
+package-lock.json
+.next/
+.idea/
+.editorconfig
+
+
+
+
